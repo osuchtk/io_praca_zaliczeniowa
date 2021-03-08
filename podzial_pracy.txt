@@ -6,6 +6,6 @@ lab 5 (5.04): Punkt 7; Wiszowaty
 lab 6 (12.04): Punkt 8; Osiak
 lab 7 (19.04): Punkt 9; Wiszowaty/ Osiak
 lab 8 (26.04): Punkt 10; Osiak
-lab 9 (10.05): Punkt 11; Wiszowaty
-lab 10 (17.05): Punkt 12; Osiak
+lab 9 (10.05): 
+lab 10 (17.05): Punkt 12; Osiak, Punkt 11; Wiszowaty
 lab 11 (24.05): Punkt 3; Wiszowaty/ Osiak
