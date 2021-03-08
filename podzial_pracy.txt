@@ -1,11 +1,11 @@
-lab 1 (8.03): wymyślenie tematu pracy
-lab 2 (15.03): początek uzupełniania dokumentacji (2. Odnośniki do innych źródeł i 4. Wprowadzenie): stworzenie repozytorium na githubie, podział prac, 
-lab 3 (22.03):
-lab 4 (29.03):
-lab 5 (5.04):
-lab 6 (12.04):
-lab 7 (19.04):
-lab 8 (26.04):
-lab 9 (10.05):
-lab 10 (17.05):
-lab 11 (24.05):
+lab 1 (8.03): wymyślenie tematu pracy; Wiszowaty/ Osiak
+lab 2 (15.03): początek uzupełniania dokumentacji (2. Odnośniki do innych źródeł i 4. Wprowadzenie): stworzenie repozytorium na githubie, podział prac; Wiszowaty/ Osiak
+lab 3 (22.03): Punkt 5; Wiszowaty
+lab 4 (29.03): Punkt 6; Osiak
+lab 5 (5.04): Punkt 7; Wiszowaty
+lab 6 (12.04): Punkt 8; Osiak
+lab 7 (19.04): Punkt 9; Wiszowaty/ Osiak
+lab 8 (26.04): Punkt 10; Osiak
+lab 9 (10.05): Punkt 11; Wiszowaty
+lab 10 (17.05): Punkt 12; Osiak
+lab 11 (24.05): Punkt 3; Wiszowaty/ Osiak
