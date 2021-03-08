@@ -1,0 +1,11 @@
+lab 1 (8.03): wymyślenie tematu pracy
+lab 2 (15.03): początek uzupełniania dokumentacji (2. Odnośniki do innych źródeł i 4. Wprowadzenie): stworzenie repozytorium na githubie, podział prac, 
+lab 3 (22.03):
+lab 4 (29.03):
+lab 5 (5.04):
+lab 6 (12.04):
+lab 7 (19.04):
+lab 8 (26.04):
+lab 9 (10.05):
+lab 10 (17.05):
+lab 11 (24.05):
