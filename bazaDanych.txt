@@ -1,0 +1,1 @@
+tabela użytkownik, turniej, partia, organizator -> coś podobnego jak w 9.3.1?
